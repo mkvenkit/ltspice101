@@ -2,6 +2,7 @@
 
 (A work in progress...)
 
-
-1. Simple RC circuit (transient and ac simulation)
-2. 
+| No. | Image | Description |
+|---|---|---|
+| 1 | ![simple_rc](./simple_rc.png) | Simple RC circuit (transient and ac simulation)|
+ 
