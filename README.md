@@ -6,7 +6,8 @@
 |---|---|---|
 | 1 | ![simple_rc](./simple_rc.png) | [Simple RC circuit][1] (transient and ac simulation)|
 | 2 | ![diode_clipper](./diode_clipper.png) | [Diode Clipper][2]|
- 
+| 3 | ![flyback](./flyback_diode.png) | [Flyback diode][3]|
 
  [1]: https://github.com/mkvenkit/ltspice101/tree/main/simple_rc
  [2]: https://github.com/mkvenkit/ltspice101/tree/main/diode_clipper
+ [2]: https://github.com/mkvenkit/ltspice101/tree/main/flyback_diode
