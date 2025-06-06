@@ -10,4 +10,4 @@
 
  [1]: https://github.com/mkvenkit/ltspice101/tree/main/simple_rc
  [2]: https://github.com/mkvenkit/ltspice101/tree/main/diode_clipper
- [2]: https://github.com/mkvenkit/ltspice101/tree/main/flyback_diode
+ [3]: https://github.com/mkvenkit/ltspice101/tree/main/flyback_diode
