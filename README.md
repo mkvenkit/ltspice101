@@ -9,6 +9,7 @@
 | 3 | [![flyback](./flyback_diode.png)][3] | [Flyback diode][3]|
 | 4 | [![pulse](./tr_pulse_gen.png)][4] | [Transistor pulse generator][4]|
 | 5 | [![schmitt](./tr_schmitt_trigger.png)][5] | [Transistor Schmitt trigger][5]|
+| 6 | [![schmitt](./emitter_follower.png)][6] | [Emitter Follower][6]|
 
 
 [1]: https://github.com/mkvenkit/ltspice101/tree/main/simple_rc
@@ -16,3 +17,4 @@
 [3]: https://github.com/mkvenkit/ltspice101/tree/main/flyback_diode
 [4]: https://github.com/mkvenkit/ltspice101/tree/main/tr_pulse_gen
 [5]: https://github.com/mkvenkit/ltspice101/tree/main/tr_schmitt_trigger
+[6]: https://github.com/mkvenkit/ltspice101/tree/main/emitter_follower
