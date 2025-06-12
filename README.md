@@ -10,6 +10,7 @@
 | 4 | [![pulse](./tr_pulse_gen.png)][4] | [Transistor pulse generator][4]|
 | 5 | [![schmitt](./tr_schmitt_trigger.png)][5] | [Transistor Schmitt trigger][5]|
 | 6 | [![schmitt](./emitter_follower.png)][6] | [Emitter Follower][6]|
+| 7 | [![schmitt](./resistor_divider.png)][7] | [Potentiometer resistor divider][7]|
 
 
 [1]: https://github.com/mkvenkit/ltspice101/tree/main/simple_rc
@@ -18,3 +19,4 @@
 [4]: https://github.com/mkvenkit/ltspice101/tree/main/tr_pulse_gen
 [5]: https://github.com/mkvenkit/ltspice101/tree/main/tr_schmitt_trigger
 [6]: https://github.com/mkvenkit/ltspice101/tree/main/emitter_follower
+[7]: https://github.com/mkvenkit/ltspice101/tree/main/resistor_divider
